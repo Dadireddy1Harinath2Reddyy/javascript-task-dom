@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    margin:20px;
+}
+.image-resize {
+    height: 200px;
+    width: 400px;
+}
+.small-resize {
+    width:100px;
+    height: 100px;
+    margin: 10px;
+}
